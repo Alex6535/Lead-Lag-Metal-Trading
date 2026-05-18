@@ -1,0 +1,17 @@
+yfinance>=0.2.40
+pandas>=2.0
+numpy>=1.24
+missingno>=0.5.2
+statsmodels>=0.14
+scipy>=1.11
+pykalman>=0.9.7
+prophet>=1.1.5
+dtaidistance>=2.3.11
+tslearn>=0.6.3
+optuna>=3.6
+bokeh>=3.4
+seaborn>=0.13
+matplotlib>=3.8
+networkx>=3.2
+scikit-learn>=1.4
+pytest>=8.0
